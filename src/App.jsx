@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar"
 
 function App() {
     return <>
-        <div className="bg-black h-screen text-white p-10">
+        <div className="text-white p-10">
             <Navbar />
             <Outlet />
         </div>
