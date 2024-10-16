@@ -13,7 +13,7 @@ function Navbar() {
                 <ul className="basis-4/6 flex justify-end">
                     <Link className={`px-4 mx-3 pb-4 cursor-pointer ${activePage === 'home' && 'border-b-4 border-b-red-700'}`} onClick={() => { pageChange('home') }} to={"/home"}>Home</Link>
                     <Link className={`px-4 mx-3 pb-4 cursor-pointer ${activePage === 'set_goal' && 'border-b-4 border-b-red-700'}`} onClick={() => { pageChange('set_goal') }} to={"/set-goals"}>Set Goal</Link>
-                    <Link className={`px-4 mx-3 pb-4 cursor-pointer ${activePage === 'log' && 'border-b-4 border-b-red-700'}`} onClick={() => { pageChange('log') }} to={"/home"}>Log</Link>
+                    <Link className={`px-4 mx-3 pb-4 cursor-pointer ${activePage === 'log' && 'border-b-4 border-b-red-700'}`} onClick={() => { pageChange('log') }} to={"/log"}>Log</Link>
                 </ul>
             </nav>
         </div>
