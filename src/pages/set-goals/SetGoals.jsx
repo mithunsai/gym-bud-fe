@@ -1,6 +1,6 @@
 import moment from 'moment'
 import { useEffect, useState } from 'react'
-import WorkoutForm from '../../components/workoutForm/WorkoutForm'
+import GoalWorkoutForm from '../../components/workoutForm/GoalWorkoutForm'
 import Info from '../../components/Info'
 
 function SetGoals() {
@@ -54,7 +54,7 @@ function SetGoals() {
                     </div>
                     <div>
                         <div className='grid lg:grid-cols-2 sm:grid-cols-1 md:place-items-center place-items-start'>{Array.from({ length: workouts }, (v, i) => i).map(no =>
-                            <WorkoutForm no={no}></WorkoutForm>
+                            <GoalWorkoutForm no={no}></GoalWorkoutForm>
                         )}</div>
                         {workouts <= 0 && <div id='noWorkouts' className='text-center py-10'>
                             <p>

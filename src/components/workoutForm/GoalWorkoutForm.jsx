@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Info from "../Info";
-import './workoutForm.css'
+import './GoalWorkoutForm.css'
 function WorkoutForm({ no }) {
     const [workoutName, setWorkoutName] = useState('')
     const [noOfSets, setNoOfSes] = useState(3)
