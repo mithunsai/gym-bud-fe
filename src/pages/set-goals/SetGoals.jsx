@@ -25,7 +25,7 @@ function SetGoals() {
                 <div>
                     <div className='flex flex-col md:flex-row py-10 md:justify-center'>
 
-                        <div className='my-5 px-5 text-left flex flex-col md:w-72'>
+                        <div className='my-5 px-5 text-left flex flex-col'>
                             <div className='flex justify-between mb-1'><label htmlFor="goalDate" className='' >Set Goal For :</label> <span className='text-right'><Info /></span></div>
 
                             <select id="goalDate" className="text-black">
@@ -35,12 +35,12 @@ function SetGoals() {
                             </select>
                         </div>
 
-                        <div className='my-5 px-5 text-left flex flex-col md:w-72'>
+                        <div className='my-5 px-5 text-left flex flex-col'>
                             <div className='flex justify-between mb-1'><label htmlFor="workoutDay" className='' >Type of day :</label> <span className='text-right'><Info /></span></div>
                             <input id="workoutDay" className="text-black" />
                         </div>
 
-                        <div className='my-5 px-5 text-left flex flex-col md:w-72'>
+                        <div className='my-5 px-5 text-left flex flex-col'>
                             <div className='flex justify-between mb-1'><label htmlFor="workouts" className='' >No of workouts :</label> <span className='text-right'><Info /></span></div>
 
                             <input

@@ -1,0 +1,246 @@
+[
+    {
+        "no": 1,
+        "name": "Squats",
+        "sets": [
+            {
+                "no": 1,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 2,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 3,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 4,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 5,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            }
+        ]
+    },
+    {
+        "no": 2,
+        "name": "Leg extension",
+        "sets": [
+            {
+                "no": 1,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 2,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 3,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 4,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 5,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            }
+        ]
+    },
+    {
+        "no": 3,
+        "name": "Leg press",
+        "sets": [
+            {
+                "no": 1,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 2,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 3,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 4,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 5,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            }
+        ]
+    },
+    {
+        "no": 4,
+        "name": "Lunges",
+        "sets": [
+            {
+                "no": 1,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 2,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 3,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 4,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            },
+            {
+                "no": 5,
+                "reps": {
+                    "goal": 15,
+                    "actual": 0
+                },
+                "weight": {
+                    "goal": 5,
+                    "actual": 0
+                }
+            }
+        ]
+    }
+]
